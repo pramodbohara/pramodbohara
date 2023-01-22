@@ -5,13 +5,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerrychhetri&label=Profile%20views&color=0e75b6&style=flat" alt="jerrychhetri" /> </p>
 
 
-- 🔭 I’m currently working on **The Corona-Warn-App**
+- 🔭 I’m currently working on **Privileged access management (PAM)**
 
-- 🌱 I’m currently learning **Spring Security**
+- 🌱 I’m currently learning **Advance Intrusion Prevention Detection
+**
 
 - 📫 How to reach me **mr.pramodbohara@gmail.com**
 
-- ⚡ Fun fact If I could eat one type of cuisine for the rest of my life, it would be Italian food, as I enjoy pasta and pizza.
+- ⚡ Fun fact **If I could eat one type of cuisine for the rest of my life, it would be Italian food, as I enjoy pasta and pizza.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
