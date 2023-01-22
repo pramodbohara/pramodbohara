@@ -7,8 +7,7 @@
 
 - 🔭 I’m currently working on **Privileged access management (PAM)**
 
-- 🌱 I’m currently learning **Advance Intrusion Prevention Detection
-**
+- 🌱 I’m currently learning **Advance Intrusion Prevention Detection**
 
 - 📫 How to reach me **mr.pramodbohara@gmail.com**
 
