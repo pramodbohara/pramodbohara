@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **mr.pramodbohara@gmail.com**
 
-- ⚡ Fun fact **If I could eat one type of cuisine for the rest of my life, it would be Italian food, as I enjoy pasta and pizza.
+- ⚡ Fun fact ** If I could eat one type of cuisine for the rest of my life, it would be Italian food, as I enjoy pasta and pizza.
 **
 
 <h3 align="left">Connect with me:</h3>
