@@ -1,6 +1,6 @@
 [![MasterHead](https://as1.ftcdn.net/v2/jpg/02/22/96/70/1000_F_222967089_uftweUTsmcqiDYMzFXvSdOI0AfwxNqa7.jpg)](https://jerrychhetri.io)
-<h1 align="center">Hi 👋, I'm Jerry Chhetri</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Pramod Bohara</h1>
+<h3 align="center">A passionate Security Architect from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerrychhetri&label=Profile%20views&color=0e75b6&style=flat" alt="jerrychhetri" /> </p>
 
@@ -11,7 +11,8 @@
 
 - 📫 How to reach me **mr.pramodbohara@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **If I could eat one type of cuisine for the rest of my life, it would be Italian food, as I enjoy pasta and pizza.
+**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
